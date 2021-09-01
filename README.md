@@ -1,4 +1,4 @@
-<h3 align="center">A full stack developer from Nebraska.</h3>
+<h3 align="center">A full stack developer from Nebraska, in Florida.</h3>
 
 
 <p align="center"> <a href="https://twitter.com/c1oneman" target="blank"><img src="https://img.shields.io/twitter/follow/c1oneman?logo=twitter&style=for-the-badge" alt="c1oneman" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [loneman.dev/resume](loneman.dev/resume)
 
-- ⚡ Fun fact **I have business ideas just about every day. It is a problem.**
+- ⚡ Fun fact **I have business ideas just about every day..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
