@@ -3,19 +3,10 @@
 
 <p align="center"> <a href="https://twitter.com/c1oneman" target="blank"><img src="https://img.shields.io/twitter/follow/c1oneman?logo=twitter&style=for-the-badge" alt="c1oneman" /></a> </p>
 
-- 🔭 I’m currently working on [itsalmost clone](https://almostcl.one)
-
-- 🌱 I’m currently learning **Typescript + Redux**
-
-- 👨‍💻 All of my projects are available at [loneman.dev](https://loneman.dev)
-
-- 💬 Ask me about **react, express, and databases!**
-
 - 📫 How to reach me **clayloneman@gmail.com**
 
 - 📄 Know about my experiences [loneman.dev/resume](https://loneman.dev/resume)
 
-- ⚡ Fun fact **I have business ideas just about every day..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
