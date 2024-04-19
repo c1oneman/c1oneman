@@ -1,4 +1,4 @@
-<h3 align="center">A full stack developer from Nebraska.</h3>
+<h3 align="center">A developer from Nebraska.</h3>
 
 
 <p align="center"> <a href="https://twitter.com/c1oneman" target="blank"><img src="https://img.shields.io/twitter/follow/c1oneman?logo=twitter&style=for-the-badge" alt="c1oneman" /></a> </p>
