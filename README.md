@@ -1,2 +1,1 @@
-A software engineer from Nebraska currently @ useworkshop.com
-
+A software engineer from Nebraska
